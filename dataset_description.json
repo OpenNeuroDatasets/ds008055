@@ -1,0 +1,7 @@
+{
+  "Name": "fMRIPrep-SciCrea",
+  "BIDSVersion": "1.8.0",
+  "Authors": [
+    "Roger Beaty"
+  ]
+}
