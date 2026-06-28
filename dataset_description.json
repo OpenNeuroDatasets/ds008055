@@ -1,7 +1,8 @@
 {
-  "Name": "fMRIPrep-SciCrea",
-  "BIDSVersion": "1.8.0",
-  "Authors": [
-    "Roger Beaty"
-  ]
+    "Name": "Scientific Creativity MRI Dataset",
+    "BIDSVersion": "1.8.0",
+    "Authors": [
+        "Roger Beaty"
+    ],
+    "License": "CC0"
 }
