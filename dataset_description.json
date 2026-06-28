@@ -2,6 +2,7 @@
     "Name": "Scientific Creativity MRI Dataset",
     "BIDSVersion": "1.8.0",
     "Authors": [
+        "Simone A. Luchini",
         "Roger Beaty"
     ],
     "License": "CC0",
