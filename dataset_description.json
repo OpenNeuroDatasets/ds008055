@@ -4,5 +4,6 @@
     "Authors": [
         "Roger Beaty"
     ],
-    "License": "CC0"
+    "License": "CC0",
+    "DatasetType": "raw"
 }
