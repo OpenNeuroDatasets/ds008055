@@ -1,0 +1,11 @@
+{
+    "Name": "Scientific Creativity MRI Dataset",
+    "BIDSVersion": "1.8.0",
+    "Authors": [
+        "Simone A. Luchini",
+        "Roger Beaty"
+    ],
+    "License": "CC0",
+    "DatasetType": "raw",
+    "DatasetDOI": "doi:10.18112/openneuro.ds008055.v1.0.0"
+}
