@@ -144,5 +144,7 @@
   "B0FieldSource": [
     "sub-49_dir-AP_epi",
     "sub-49_dir-PA_epi"
-  ]
+  ],
+  "TaskDescription": "Idea Diversity task.",
+  "Instructions": "Participants completed the Idea Diversity task according to the study protocol."
 }

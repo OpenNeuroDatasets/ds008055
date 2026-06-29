@@ -144,5 +144,7 @@
   "B0FieldSource": [
     "sub-15_dir-AP_epi",
     "sub-15_dir-PA_epi"
-  ]
+  ],
+  "TaskDescription": "Resting-state fMRI.",
+  "Instructions": "Participants rested during the scan."
 }

@@ -144,5 +144,7 @@
   "B0FieldSource": [
     "sub-50_dir-AP_epi",
     "sub-50_dir-PA_epi"
-  ]
+  ],
+  "TaskDescription": "Scientific Creativity Task, including hypothesis generation and a control condition.",
+  "Instructions": "Participants generated scientific hypotheses and completed a matched control condition."
 }

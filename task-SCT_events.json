@@ -1,10 +1,4 @@
 {
-  "onset": {
-    "Description": "Event onset in seconds relative to the start of the scan."
-  },
-  "duration": {
-    "Description": "Event duration in seconds."
-  },
   "trial_type": {
     "Description": "Condition label for the Scientific Creativity Task, including hypothesis generation and control conditions where present."
   },

@@ -140,5 +140,7 @@
   "InPlanePhaseEncodingDirectionDICOM": "COL",
   "ConversionSoftware": "dcm2niix",
   "ConversionSoftwareVersion": "v1.0.20171215 (OpenJPEG build) GCC4.8.5",
-  "TaskName": "Scientific creativity task"
+  "TaskName": "Scientific creativity task",
+  "TaskDescription": "Scientific Creativity Task, including hypothesis generation and a control condition.",
+  "Instructions": "Participants generated scientific hypotheses and completed a matched control condition."
 }

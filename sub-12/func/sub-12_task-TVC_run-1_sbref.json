@@ -140,5 +140,7 @@
   "InPlanePhaseEncodingDirectionDICOM": "COL",
   "ConversionSoftware": "dcm2niix",
   "ConversionSoftwareVersion": "v1.0.20171215 (OpenJPEG build) GCC4.8.5",
-  "TaskName": "Taxonomy of verbal creativity"
+  "TaskName": "Taxonomy of verbal creativity",
+  "TaskDescription": "Taxonomy of Verbal Creativity task.",
+  "Instructions": "Participants completed the Taxonomy of Verbal Creativity task according to the study protocol."
 }

@@ -144,5 +144,7 @@
   "B0FieldSource": [
     "sub-30_dir-AP_epi",
     "sub-30_dir-PA_epi"
-  ]
+  ],
+  "TaskDescription": "Taxonomy of Verbal Creativity task.",
+  "Instructions": "Participants completed the Taxonomy of Verbal Creativity task according to the study protocol."
 }

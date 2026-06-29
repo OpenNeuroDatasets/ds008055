@@ -1,10 +1,4 @@
 {
-  "onset": {
-    "Description": "Event onset in seconds relative to the start of the scan."
-  },
-  "duration": {
-    "Description": "Event duration in seconds."
-  },
   "trial_type": {
     "Description": "Event category for the Idea Diversity task."
   },
