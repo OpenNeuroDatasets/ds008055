@@ -1,2 +1,6 @@
+1.0.1 2026-06-29
+  - Reduce BIDS validator warnings with release metadata cleanup.
+  - Add README orientation and correct task names for ID, SCT, TVC, and rest.
+  - Add fieldmap links, SBRef sidecars, event sidecars, and deterministic gzip headers.
 1.0.0 2026-06-28
   - Initial OpenNeuro release of the defaced Scientific Creativity MRI BIDS dataset.
