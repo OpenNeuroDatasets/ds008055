@@ -140,7 +140,7 @@
   "InPlanePhaseEncodingDirectionDICOM": "COL",
   "ConversionSoftware": "dcm2niix",
   "ConversionSoftwareVersion": "v1.0.20171215 (OpenJPEG build) GCC4.8.5",
-  "TaskName": "rest",
+  "TaskName": "Resting state",
   "B0FieldSource": [
     "sub-133_dir-AP_epi",
     "sub-133_dir-PA_epi"

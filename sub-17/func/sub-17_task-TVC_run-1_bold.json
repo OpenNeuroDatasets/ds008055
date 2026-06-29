@@ -140,7 +140,7 @@
   "InPlanePhaseEncodingDirectionDICOM": "COL",
   "ConversionSoftware": "dcm2niix",
   "ConversionSoftwareVersion": "v1.0.20171215 (OpenJPEG build) GCC4.8.5",
-  "TaskName": "TVC",
+  "TaskName": "Taxonomy of verbal creativity",
   "B0FieldSource": [
     "sub-17_dir-AP_epi",
     "sub-17_dir-PA_epi"

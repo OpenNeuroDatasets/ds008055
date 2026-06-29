@@ -6,10 +6,11 @@
     "Description": "Event duration in seconds."
   },
   "trial_type": {
-    "Description": "Event category."
+    "Description": "Event category for the Idea Diversity task."
   },
   "StimulusPresentation": {
     "OperatingSystem": "unknown",
     "SoftwareName": "unknown"
-  }
+  },
+  "TaskName": "Idea diversity"
 }

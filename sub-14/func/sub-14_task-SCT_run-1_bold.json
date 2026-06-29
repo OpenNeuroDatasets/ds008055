@@ -140,7 +140,7 @@
   "InPlanePhaseEncodingDirectionDICOM": "COL",
   "ConversionSoftware": "dcm2niix",
   "ConversionSoftwareVersion": "v1.0.20171215 (OpenJPEG build) GCC4.8.5",
-  "TaskName": "SCT",
+  "TaskName": "Scientific creativity task",
   "B0FieldSource": [
     "sub-14_dir-AP_epi",
     "sub-14_dir-PA_epi"

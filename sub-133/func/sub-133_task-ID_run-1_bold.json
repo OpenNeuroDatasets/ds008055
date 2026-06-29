@@ -147,7 +147,7 @@
   "InPlanePhaseEncodingDirectionDICOM": "COL",
   "ConversionSoftware": "dcm2niix",
   "ConversionSoftwareVersion": "v1.0.20220720",
-  "TaskName": "ID",
+  "TaskName": "Idea diversity",
   "B0FieldSource": [
     "sub-133_dir-AP_epi",
     "sub-133_dir-PA_epi"
