@@ -1,39 +1,40 @@
 {
-  "Name": "Scientific Creativity MRI Dataset",
-  "BIDSVersion": "1.8.0",
-  "Authors": [
-    "Simone A. Luchini",
-    "Roger Beaty"
-  ],
-  "DatasetType": "raw",
-  "License": "CC0",
-  "GeneratedBy": [
-    {
-      "Name": "pydeface",
-      "Version": "2.1.0",
-      "Description": "Defaced T1w anatomical images for OpenNeuro release."
-    },
-    {
-      "Name": "Codex-assisted BIDS release workflow",
-      "Description": "Release-only metadata cleanup, deterministic gzip normalization, and OpenNeuro upload automation."
-    }
-  ],
-  "SourceDatasets": [
-    {
-      "URL": "https://osf.io/4vd8h/",
-      "Description": "Scientific Creativity MRI OSF dataset component used as the public source reference before OpenNeuro release cleanup."
-    }
-  ],
-  "HowToAcknowledge": "Please cite the OpenNeuro dataset and the primary publications listed in ReferencesAndLinks.",
-  "Funding": [
-    "National Science Foundation DRL-1920653",
-    "National Science Foundation DUE-2155070",
-    "National Science Foundation DRL-240078"
-  ],
-  "ReferencesAndLinks": [
-    "https://doi.org/10.1037/aca0000603",
-    "https://doi.org/10.1016/j.neuropsychologia.2026.109451",
-    "https://doi.org/10.1162/JOCN.a.2396",
-    "https://osf.io/4vd8h/"
-  ]
+    "Name": "Scientific Creativity MRI Dataset",
+    "BIDSVersion": "1.8.0",
+    "Authors": [
+        "Simone A. Luchini",
+        "Roger Beaty"
+    ],
+    "DatasetType": "raw",
+    "License": "CC0",
+    "GeneratedBy": [
+        {
+            "Name": "pydeface",
+            "Version": "2.1.0",
+            "Description": "Defaced T1w anatomical images for OpenNeuro release."
+        },
+        {
+            "Name": "Codex-assisted BIDS release workflow",
+            "Description": "Release-only metadata cleanup, deterministic gzip normalization, and OpenNeuro upload automation."
+        }
+    ],
+    "SourceDatasets": [
+        {
+            "URL": "https://osf.io/4vd8h/",
+            "Description": "Scientific Creativity MRI OSF dataset component used as the public source reference before OpenNeuro release cleanup."
+        }
+    ],
+    "HowToAcknowledge": "Please cite the OpenNeuro dataset and the primary publications listed in ReferencesAndLinks.",
+    "Funding": [
+        "National Science Foundation DRL-1920653",
+        "National Science Foundation DUE-2155070",
+        "National Science Foundation DRL-240078"
+    ],
+    "ReferencesAndLinks": [
+        "https://doi.org/10.1037/aca0000603",
+        "https://doi.org/10.1016/j.neuropsychologia.2026.109451",
+        "https://doi.org/10.1162/JOCN.a.2396",
+        "https://osf.io/4vd8h/"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds008055.v1.0.4"
 }
