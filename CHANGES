@@ -1,3 +1,5 @@
+1.0.3 2026-06-29
+  - Import available SCT, ID, and TVC event timing tables from project timing sources, remove empty event placeholders where source timing is unavailable, update event sidecars and README event coverage notes.
 1.0.2 2026-06-29
   - Reduce remaining safe BIDS warnings by adding task descriptions/instructions and removing redundant event sidecar onset/duration definitions.
 1.0.1 2026-06-29
