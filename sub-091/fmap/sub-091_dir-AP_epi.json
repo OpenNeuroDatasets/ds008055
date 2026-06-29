@@ -135,5 +135,9 @@
   ],
   "InPlanePhaseEncodingDirectionDICOM": "COL",
   "ConversionSoftware": "dcm2niix",
-  "ConversionSoftwareVersion": "v1.0.20171215 (OpenJPEG build) GCC4.8.5"
+  "ConversionSoftwareVersion": "v1.0.20171215 (OpenJPEG build) GCC4.8.5",
+  "B0FieldIdentifier": "sub-091_dir-AP_epi",
+  "IntendedFor": [
+    "bids::sub-091/func/sub-091_task-rest_run-1_bold.nii.gz"
+  ]
 }

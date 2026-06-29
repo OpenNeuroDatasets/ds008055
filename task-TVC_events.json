@@ -1,0 +1,24 @@
+{
+  "onset": {
+    "Description": "Event onset in seconds relative to the start of the scan."
+  },
+  "duration": {
+    "Description": "Event duration in seconds."
+  },
+  "trial_type": {
+    "Description": "Event category."
+  },
+  "stimulus": {
+    "Description": "Stimulus identifier or label from the source event table."
+  },
+  "stimulus_onset": {
+    "Description": "Stimulus onset from the source event table."
+  },
+  "stimulus_duration": {
+    "Description": "Stimulus duration from the source event table."
+  },
+  "StimulusPresentation": {
+    "OperatingSystem": "unknown",
+    "SoftwareName": "unknown"
+  }
+}

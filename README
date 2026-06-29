@@ -1,0 +1,4 @@
+Scientific Creativity MRI Dataset
+================================
+
+This OpenNeuro release contains the defaced BIDS MRI data for the Scientific Creativity project. T1w anatomical images were defaced before public release. Functional tasks include ID, SCT, TVC, and rest. Known validator warnings that may remain after cleanup are optional recommended metadata fields that were not available in the source sidecars and were not inferred.

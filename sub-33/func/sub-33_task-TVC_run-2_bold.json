@@ -140,5 +140,9 @@
   "InPlanePhaseEncodingDirectionDICOM": "COL",
   "ConversionSoftware": "dcm2niix",
   "ConversionSoftwareVersion": "v1.0.20171215 (OpenJPEG build) GCC4.8.5",
-  "TaskName": "TVC"
+  "TaskName": "TVC",
+  "B0FieldSource": [
+    "sub-33_dir-AP_epi",
+    "sub-33_dir-PA_epi"
+  ]
 }

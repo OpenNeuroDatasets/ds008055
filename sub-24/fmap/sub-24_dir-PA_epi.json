@@ -135,5 +135,13 @@
   ],
   "InPlanePhaseEncodingDirectionDICOM": "COL",
   "ConversionSoftware": "dcm2niix",
-  "ConversionSoftwareVersion": "v1.0.20171215 (OpenJPEG build) GCC4.8.5"
+  "ConversionSoftwareVersion": "v1.0.20171215 (OpenJPEG build) GCC4.8.5",
+  "B0FieldIdentifier": "sub-24_dir-PA_epi",
+  "IntendedFor": [
+    "bids::sub-24/func/sub-24_task-SCT_run-1_bold.nii.gz",
+    "bids::sub-24/func/sub-24_task-SCT_run-2_bold.nii.gz",
+    "bids::sub-24/func/sub-24_task-TVC_run-1_bold.nii.gz",
+    "bids::sub-24/func/sub-24_task-TVC_run-2_bold.nii.gz",
+    "bids::sub-24/func/sub-24_task-rest_bold.nii.gz"
+  ]
 }
