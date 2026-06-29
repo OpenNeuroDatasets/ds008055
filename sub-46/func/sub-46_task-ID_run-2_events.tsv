@@ -1,1 +1,21 @@
-onset	duration	trial_type
+onset	duration	trial_type	trial	association_number	context	cue	fix_onset	fix_duration	prompt_onset	prompt_duration	speak_onset	speak_duration
+6.613	5.001	association_1_same_context	11	1	S	blow	1.113	4.5	5.613	1	11.614	3.5
+15.114	5	association_2_same_context	11	2	S	blow	1.113	4.5	5.613	9.501	20.114	8
+28.114	5	association_1_different_context	12	1	D	globe	23.114	4	27.114	1	33.114	3.5
+36.614	5	association_2_different_context	12	2	D	globe	23.114	4	27.114	9.5	41.614	8.501
+50.115	5	association_1_same_context	13	1	S	leap	44.631	4.5	49.115	1	55.115	3.5
+58.615	5	association_2_same_context	13	2	S	leap	44.631	4.5	49.115	9.5	63.615	9
+72.615	5	association_1_different_context	14	1	D	guide	66.632	5	71.615	1	77.615	3.5
+81.115	5.001	association_2_different_context	14	2	D	guide	66.632	5	71.615	9.5	86.116	7.5
+93.616	5	association_1_different_context	15	1	D	stage	89.116	3.5	92.616	1	98.616	3.5
+102.116	5	association_2_different_context	15	2	D	stage	89.116	3.5	92.616	9.5	107.116	7.5
+114.616	5.001	association_1_different_context	16	1	D	scratch	110.116	3.5	113.616	1	119.617	3.5
+123.117	5	association_2_different_context	16	2	D	scratch	110.116	3.5	113.616	9.501	128.117	7
+135.117	5	association_1_same_context	17	1	S	note	131.117	3	134.117	1	140.117	3.5
+143.617	5	association_2_same_context	17	2	S	note	131.117	3	134.117	9.5	148.617	9.001
+157.618	5	association_1_same_context	18	1	S	study	151.634	5	156.618	1	162.618	3.5
+166.118	5	association_2_same_context	18	2	S	study	151.634	5	156.618	9.5	171.118	8
+179.118	5	association_1_different_context	19	1	D	piece	174.118	4	178.118	1	184.118	3.5
+187.618	5.001	association_2_different_context	19	2	D	piece	174.118	4	178.118	9.5	192.619	7
+199.619	5	association_1_same_context	20	1	S	stem	195.619	3	198.619	1	204.619	3.5
+208.119	5	association_2_same_context	20	2	S	stem	195.619	3	198.619	9.5	213.119	-205.997

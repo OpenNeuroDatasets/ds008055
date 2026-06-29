@@ -1,1 +1,21 @@
-onset	duration	trial_type
+onset	duration	trial_type	trial	association_number	context	cue	fix_onset	fix_duration	prompt_onset	prompt_duration	speak_onset	speak_duration
+6.626	4.999	association_1_different_context	51	1	D	plank	1.128	4.5	5.627	0.999	11.625	3.498
+15.123	4.999	association_2_different_context	51	2	D	plank	1.128	4.5	5.627	9.496	20.122	7.497
+27.619	4.999	association_1_different_context	52	1	D	bell	23.137	3.5	26.62	0.999	32.618	3.498
+36.116	4.999	association_2_different_context	52	2	D	bell	23.137	3.5	26.62	9.496	41.115	7.497
+48.612	5.015	association_1_same_context	53	1	S	alarm	44.114	3.5	47.612	1	53.627	3.499
+57.126	4.998	association_2_same_context	53	2	S	alarm	44.114	3.5	47.612	9.514	62.124	8.014
+70.138	4.982	association_1_different_context	54	1	D	chain	65.123	4	69.138	1	75.12	3.499
+78.619	4.998	association_2_different_context	54	2	D	chain	65.123	4	69.138	9.481	83.617	7.997
+91.614	4.999	association_1_same_context	55	1	S	contact	86.616	4	90.615	0.999	96.613	3.515
+100.128	4.998	association_2_same_context	55	2	S	contact	86.616	4	90.615	9.513	105.126	8.997
+114.123	5.015	association_1_different_context	56	1	D	touch	108.125	5	113.124	0.999	119.138	3.482
+122.62	4.999	association_2_different_context	56	2	D	touch	108.125	5	113.124	9.496	127.619	6.997
+134.616	4.999	association_1_same_context	57	1	S	dent	130.618	3	133.617	0.999	139.615	3.498
+143.113	5.015	association_2_same_context	57	2	S	dent	130.618	3	133.617	9.496	148.128	8.498
+156.626	4.998	association_1_different_context	58	1	D	lobby	151.127	4.5	155.626	1	161.624	3.515
+165.139	4.982	association_2_different_context	58	2	D	lobby	151.127	4.5	155.626	9.513	170.121	8.997
+179.118	4.998	association_1_same_context	59	1	S	market	173.12	5	178.118	1	184.116	3.499
+187.615	4.998	association_2_same_context	59	2	S	market	173.12	5	178.118	9.497	192.613	7.015
+199.628	4.998	association_1_same_context	60	1	S	slide	195.612	3	198.628	1	204.626	3.499
+208.125	5.015	association_2_same_context	60	2	S	slide	195.612	3	198.628	9.497	213.14	n/a

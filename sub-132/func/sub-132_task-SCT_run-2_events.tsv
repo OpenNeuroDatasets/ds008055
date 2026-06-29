@@ -1,49 +1,25 @@
-onset	duration	trial_type
-14.018	15	Hypothesis
-29.013	5	Speak
-39.026	15	Hypothesis
-54.021	5	Speak
-62.019	15	Hypothesis
-77.013	5	Speak
-87.027	15	Hypothesis
-102.022	5	Speak
-110.019	15	Hypothesis
-125.014	5	Speak
-134.028	15	Hypothesis
-149.022	5	Speak
-169.016	15	Synonym
-184.044	5	Speak
-194.024	15	Synonym
-209.019	5	Speak
-217.016	15	Synonym
-232.044	5	Speak
-240.025	15	Synonym
-255.02	5	Speak
-264.017	15	Synonym
-279.029	5	Speak
-288.026	15	Synonym
-303.02	5	Speak
-321.014	15	Synonym
-336.026	5	Speak
-346.023	15	Synonym
-361.018	5	Speak
-370.031	15	Synonym
-385.026	5	Speak
-395.023	15	Synonym
-410.018	5	Speak
-418.032	15	Synonym
-433.026	5	Speak
-442.023	15	Synonym
-457.018	5	Speak
-477.028	15	Hypothesis
-492.023	5	Speak
-500.021	15	Hypothesis
-515.016	5	Speak
-524.012	15	Hypothesis
-539.024	5	Speak
-547.021	15	Hypothesis
-562.016	5	Speak
-571.013	15	Hypothesis
-586.025	5	Speak
-596.021	15	Hypothesis
-611.016	5	Speak
+onset	duration	trial_type	stimulus	fix_onset	fix_duration	response_onset	response_duration
+14.018	14.995	Hypothesis	island	10.02	4	29.013	5
+39.026	14.995	Hypothesis	abandoned	34.028	5	54.021	5
+62.019	14.994	Hypothesis	hospital	59.02	3	77.013	5
+87.027	14.995	Hypothesis	corporation1	82.029	5	102.022	5
+110.019	14.995	Hypothesis	earth1	107.02	3	125.014	5
+134.028	14.994	Hypothesis	pond	130.012	4	149.022	5
+169.016	15.028	Synonym	received	164.017	5	184.044	5
+194.024	14.995	Synonym	notice	189.026	5	209.019	5
+217.016	15.028	Synonym	mutating	214.017	3	232.044	5
+240.025	14.995	Synonym	eating	237.026	3	255.02	5
+264.017	15.012	Synonym	evolve	260.018	4	279.029	5
+288.026	14.994	Synonym	taught	284.027	4	303.02	5
+321.014	15.012	Synonym	stain	318.015	3	336.026	5
+346.023	14.995	Synonym	claim	341.024	5	361.018	5
+370.031	14.995	Synonym	spills	366.016	4	385.026	5
+395.023	14.995	Synonym	removed	390.024	5	410.018	5
+418.032	14.994	Synonym	vanished	415.033	3	433.026	5
+442.023	14.995	Synonym	seek	438.025	4	457.018	5
+477.028	14.995	Hypothesis	forest1	472.013	5	492.023	5
+500.021	14.995	Hypothesis	university	497.022	3	515.016	5
+524.012	15.012	Hypothesis	desert2	520.014	4	539.024	5
+547.021	14.995	Hypothesis	city	544.022	3	562.016	5
+571.013	15.012	Hypothesis	jungle	567.015	4	586.025	5
+596.021	14.995	Hypothesis	earth4	591.023	5	611.016	5

@@ -1,15 +1,15 @@
 {
   "trial_type": {
-    "Description": "Event category for the Taxonomy of Verbal Creativity task."
+    "Description": "Condition label for the Taxonomy of Verbal Creativity task."
   },
   "stimulus": {
-    "Description": "Stimulus identifier or label from the source event table."
+    "Description": "Cue word from the source timing table."
   },
   "stimulus_onset": {
-    "Description": "Stimulus onset from the source event table."
+    "Description": "Stimulus onset from the source timing table."
   },
   "stimulus_duration": {
-    "Description": "Stimulus duration from the source event table."
+    "Description": "Stimulus duration from the source timing table."
   },
   "StimulusPresentation": {
     "OperatingSystem": "unknown",

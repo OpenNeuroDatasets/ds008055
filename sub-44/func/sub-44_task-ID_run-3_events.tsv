@@ -1,1 +1,21 @@
-onset	duration	trial_type
+onset	duration	trial_type	trial	association_number	context	cue	fix_onset	fix_duration	prompt_onset	prompt_duration	speak_onset	speak_duration
+5.6	5	association_1_same_context	21	1	S	forge	1.1	3.5	4.6	1	10.6	3.5
+14.1	5	association_2_same_context	21	2	S	forge	1.1	3.5	4.6	9.5	19.1	8.501
+27.601	5	association_1_different_context	22	1	D	cross	22.117	4.5	26.601	1	32.601	3.5
+36.101	5	association_2_different_context	22	2	D	cross	22.117	4.5	26.601	9.5	41.101	9
+50.101	5	association_1_different_context	23	1	D	height	44.118	5	49.101	1	55.101	3.501
+58.602	5	association_2_different_context	23	2	D	height	44.118	5	49.101	9.501	63.602	8
+71.602	5	association_1_different_context	24	1	D	spark	66.618	4	70.602	1	76.602	3.5
+80.102	5	association_2_different_context	24	2	D	spark	66.618	4	70.602	9.5	85.102	8.001
+93.103	5	association_1_same_context	25	1	S	den	88.102	4	92.102	1.001	98.103	3.5
+101.603	5	association_2_same_context	25	2	S	den	88.102	4	92.102	9.501	106.603	7.5
+114.103	5	association_1_same_context	26	1	S	list	109.603	3.5	113.103	1	119.103	3.5
+122.603	5.001	association_2_same_context	26	2	S	list	109.603	3.5	113.103	9.5	127.604	7
+134.604	5	association_1_same_context	27	1	S	exit	130.62	3	133.604	1	139.604	3.5
+143.104	5	association_2_same_context	27	2	S	exit	130.62	3	133.604	9.5	148.104	9
+157.104	5	association_1_different_context	28	1	D	mat	151.121	5	156.104	1	162.104	3.501
+165.605	5	association_2_different_context	28	2	D	mat	151.121	5	156.104	9.501	170.605	7
+177.605	5	association_1_different_context	29	1	D	lookout	173.621	3	176.605	1	182.605	3.5
+186.105	5	association_2_different_context	29	2	D	lookout	173.621	3	176.605	9.5	191.105	8.501
+199.606	5	association_1_same_context	30	1	S	fold	194.105	4.5	198.605	1.001	204.606	3.5
+208.106	5	association_2_same_context	30	2	S	fold	194.105	4.5	198.605	9.501	213.106	-206.986

@@ -1,49 +1,25 @@
-onset	duration	trial_type
-14.034	15	Synonym
-29.029	5	Speak
-37.026	15	Synonym
-52.021	5	Speak
-62.034	15	Synonym
-77.029	5	Speak
-85.027	15	Synonym
-100.022	5	Speak
-110.035	15	Synonym
-125.013	5	Speak
-134.027	15	Synonym
-149.022	5	Speak
-167.016	15	Hypothesis
-182.027	5	Speak
-192.024	15	Hypothesis
-207.019	5	Speak
-217.015	15	Hypothesis
-232.027	5	Speak
-241.024	15	Hypothesis
-256.019	5	Speak
-265.016	15	Hypothesis
-280.027	5	Speak
-288.025	15	Hypothesis
-303.02	5	Speak
-322.013	15	Hypothesis
-337.025	5	Speak
-345.039	15	Hypothesis
-360.017	5	Speak
-370.014	15	Hypothesis
-385.025	5	Speak
-393.023	15	Hypothesis
-408.017	5	Speak
-417.014	15	Hypothesis
-432.026	5	Speak
-442.023	15	Hypothesis
-457.018	5	Speak
-477.027	15	Synonym
-492.022	5	Speak
-501.019	15	Synonym
-516.014	5	Speak
-524.028	15	Synonym
-539.023	5	Speak
-547.02	15	Synonym
-562.015	5	Speak
-571.029	15	Synonym
-586.024	5	Speak
-596.021	15	Synonym
-611.016	5	Speak
+onset	duration	trial_type	stimulus	fix_onset	fix_duration	response_onset	response_duration
+14.034	14.995	Synonym	deter	10.019	4	29.029	5
+37.026	14.995	Synonym	guard	34.027	3	52.021	5
+62.034	14.995	Synonym	banned	57.019	5	77.029	5
+85.027	14.995	Synonym	overtaken	82.028	3	100.022	5
+110.035	14.978	Synonym	administering	105.02	5	125.013	5
+134.027	14.995	Synonym	split	130.028	4	149.022	5
+167.016	15.011	Hypothesis	desert1	164.017	3	182.027	5
+192.024	14.995	Hypothesis	largecity2	187.025	5	207.019	5
+217.015	15.012	Hypothesis	zoo1	212.017	5	232.027	5
+241.024	14.995	Hypothesis	smallvillage2	237.025	4	256.019	5
+265.016	15.011	Hypothesis	earth3	261.017	4	280.027	5
+288.025	14.995	Hypothesis	ocean1	285.026	3	303.02	5
+322.013	15.012	Hypothesis	bottom	318.015	4	337.025	5
+345.039	14.978	Hypothesis	beach	342.04	3	360.017	5
+370.014	15.011	Hypothesis	highway	365.015	5	385.025	5
+393.023	14.994	Hypothesis	largecity1	390.04	3	408.017	5
+417.014	15.012	Hypothesis	forest2	413.016	4	432.026	5
+442.023	14.995	Hypothesis	newplanet	437.024	5	457.018	5
+477.027	14.995	Synonym	use	472.029	5	492.022	5
+501.019	14.995	Synonym	grown	497.021	4	516.014	5
+524.028	14.995	Synonym	refracted	521.029	3	539.023	5
+547.02	14.995	Synonym	crumble	544.022	3	562.015	5
+571.029	14.995	Synonym	sleep	567.014	4	586.024	5
+596.021	14.995	Synonym	allow	591.022	5	611.016	5

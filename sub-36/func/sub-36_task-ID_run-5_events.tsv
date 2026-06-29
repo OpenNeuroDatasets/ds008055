@@ -1,1 +1,21 @@
-onset	duration	trial_type
+onset	duration	trial_type	trial	association_number	context	cue	fix_onset	fix_duration	prompt_onset	prompt_duration	speak_onset	speak_duration
+7.103	5	association_1_same_context	41	1	S	quarter	1.119	5	6.103	1	12.103	3.5
+15.603	5	association_2_same_context	41	2	S	quarter	1.119	5	6.103	9.5	20.603	7.5
+28.103	5	association_1_different_context	42	1	D	peak	23.637	3.5	27.12	0.983	33.103	3.501
+36.604	5.016	association_2_different_context	42	2	D	peak	23.637	3.5	27.12	9.484	41.62	8.001
+49.621	5	association_1_different_context	43	1	D	dip	44.604	4	48.604	1.017	54.621	3.483
+58.104	5	association_2_different_context	43	2	D	dip	44.604	4	48.604	9.5	63.104	8.001
+71.105	5	association_1_different_context	44	1	D	sweep	66.138	4	70.121	0.984	76.105	3.516
+79.621	4.984	association_2_different_context	44	2	D	sweep	66.138	4	70.121	9.5	84.605	7.517
+92.122	5	association_1_different_context	45	1	D	foot	87.638	3.5	91.122	1	97.122	3.5
+100.622	5	association_2_different_context	45	2	D	foot	87.638	3.5	91.122	9.5	105.622	7
+112.622	5.001	association_1_same_context	46	1	S	suit	108.639	3	111.622	1	117.623	3.5
+121.123	5	association_2_same_context	46	2	S	suit	108.639	3	111.622	9.501	126.123	8.5
+134.623	5	association_1_same_context	47	1	S	mix	129.123	4.5	133.623	1	139.623	3.5
+143.123	5	association_2_same_context	47	2	S	mix	129.123	4.5	133.623	9.5	148.123	8.501
+156.624	5	association_1_different_context	48	1	D	trail	151.14	4.5	155.624	1	161.624	3.5
+165.124	5	association_2_different_context	48	2	D	trail	151.14	4.5	155.624	9.5	170.124	9
+179.124	5	association_1_same_context	49	1	S	chunk	173.141	5	178.124	1	184.124	3.5
+187.624	5.001	association_2_same_context	49	2	S	chunk	173.141	5	178.124	9.5	192.625	7
+199.625	5.001	association_1_same_context	50	1	S	scrap	195.625	3	198.625	1	204.626	3.499
+208.125	5	association_2_same_context	50	2	S	scrap	195.625	3	198.625	9.5	213.125	-206.5

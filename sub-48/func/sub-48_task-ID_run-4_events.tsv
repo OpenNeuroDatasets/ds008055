@@ -1,1 +1,21 @@
-onset	duration	trial_type
+onset	duration	trial_type	trial	association_number	context	cue	fix_onset	fix_duration	prompt_onset	prompt_duration	speak_onset	speak_duration
+7.122	5	association_1_different_context	31	1	D	flag	1.121	5	6.122	1	12.122	3.5
+15.622	5	association_2_different_context	31	2	D	flag	1.121	5	6.122	9.5	20.622	9
+29.622	5	association_1_different_context	32	1	D	launch	23.622	5	28.622	1	34.622	3.5
+38.122	5.001	association_2_different_context	32	2	D	launch	23.622	5	28.622	9.5	43.123	7.5
+50.623	5	association_1_different_context	33	1	D	road	46.139	3.5	49.623	1	55.623	3.5
+59.123	5	association_2_different_context	33	2	D	road	46.139	3.5	49.623	9.5	64.123	7
+71.123	5.001	association_1_same_context	34	1	S	flow	67.14	3	70.123	1	76.124	3.5
+79.624	5	association_2_same_context	34	2	S	flow	67.14	3	70.123	9.501	84.624	7.5
+92.124	5	association_1_same_context	35	1	S	display	87.624	3.5	91.124	1	97.124	3.5
+100.624	5	association_2_same_context	35	2	S	display	87.624	3.5	91.124	9.5	105.624	8.001
+113.625	5	association_1_same_context	36	1	S	dozen	108.624	4	112.625	1	118.625	3.5
+122.125	5	association_2_same_context	36	2	S	dozen	108.624	4	112.625	9.5	127.125	7
+134.125	5	association_1_different_context	37	1	D	twist	130.142	3	133.125	1	139.125	3.5
+142.625	5.001	association_2_different_context	37	2	D	twist	130.142	3	133.125	9.5	147.626	8.5
+156.126	5	association_1_different_context	38	1	D	spot	150.642	4.5	155.126	1	161.126	3.5
+164.626	5	association_2_different_context	38	2	D	spot	150.642	4.5	155.126	9.5	169.626	8.501
+178.127	5	association_1_same_context	39	1	S	city	172.626	4.5	177.126	1.001	183.127	3.5
+186.627	5	association_2_same_context	39	2	S	city	172.626	4.5	177.126	9.501	191.627	8
+199.627	5	association_1_same_context	40	1	S	hill	194.627	4	198.627	1	204.627	3.5
+208.127	5	association_2_same_context	40	2	S	hill	194.627	4	198.627	9.5	213.127	-207.505
