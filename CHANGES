@@ -1,3 +1,5 @@
+1.0.2 2026-06-29
+  - Reduce remaining safe BIDS warnings by adding task descriptions/instructions and removing redundant event sidecar onset/duration definitions.
 1.0.1 2026-06-29
   - Reduce BIDS validator warnings with release metadata cleanup.
   - Add README orientation and correct task names for ID, SCT, TVC, and rest.
