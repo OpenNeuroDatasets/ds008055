@@ -1,0 +1,10 @@
+{
+  "trial_type": {
+    "Description": "Condition label for the Scientific Creativity Task, including hypothesis generation and control conditions where present."
+  },
+  "StimulusPresentation": {
+    "OperatingSystem": "unknown",
+    "SoftwareName": "unknown"
+  },
+  "TaskName": "Scientific creativity task"
+}
