@@ -1,0 +1,2 @@
+1.0.4 2026-06-29
+  - Import available SCT, ID, and TVC event timing tables from project timing sources, remove empty event placeholders where source timing is unavailable, update event sidecars and README event coverage notes.
